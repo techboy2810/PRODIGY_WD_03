@@ -1,0 +1,24 @@
+.box{
+  height: 150px;
+  width:150px;
+  background-color: #1f3540;
+  border-radius: 10px;
+  border: 5px solid #2D9596;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1,button{
+  color: #a8bec9;
+}
+
+html{
+  background-color: #2D9596;
+}
+
+h1 img{
+  height: 50px;
+  padding-top: ;
+}
